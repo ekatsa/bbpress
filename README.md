@@ -12,4 +12,4 @@ for free tutorials abour WordPress and more visit our site wplecturer.com
 for a free Q&A about web visit our site qa.wplecturer.com
 if you need help just mail  to matizegr@yahoo.com
 
-Click to see an image of the site
+Click to see an image of the site https://github.com/ekatsa/bbpress/issues/1
